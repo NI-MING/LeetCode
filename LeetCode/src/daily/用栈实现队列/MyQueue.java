@@ -4,9 +4,8 @@ import java.util.Stack;
 
 class MyQueue {
 
-    // 入
+    
     private Stack<Integer> stack1;
-    // 出
     private Stack<Integer> stack2;
 
     private Integer front;
