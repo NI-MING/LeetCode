@@ -11,6 +11,7 @@ class MyQueue {
     private Integer front;
 
 
+
     /** Initialize your data structure here. */
     public MyQueue() {
         stack1 = new Stack<>();
